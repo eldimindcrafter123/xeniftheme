@@ -1,2 +1,2 @@
 # xeniftheme
-betterdiscord theme
+betterdiscord theme by Xenify
